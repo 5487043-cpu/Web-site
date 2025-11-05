@@ -22,7 +22,7 @@ Aqui pondremos más cosillas
 <table>
   <tr>
      <th>Posicion</th>
-     <tn>Equipo</tn>
+     <tn>Equipo</th>
      <th>Puntuación</th>
   </tr>
   <tr>
