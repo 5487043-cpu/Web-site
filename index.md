@@ -1,11 +1,16 @@
 ---
-layout: default
+layout: splash
 title: inicio
+Header:
+  overlay_color: ¨#000¨
+  overlay_filter: ¨0¨
+  overlay_image: https://3.bp.blogspot.com/-wdk8M3w2JW0/VV8W1VwtVUI/AAAAAAAACLM/XUjxSpGrSXo/s320/LOGO%2BPRINCIPAL.bmp
+  caption: ¨La foto la echo pedrico¨
+  excerpt: ¨Logo del centro educativo FPS¨
 ---
-
 # ¡bienvenido a mi sitio web: MAMADOU LAMINE LARJA!
 
-ESta es una pagina web creada por mi con Jekyll y Github Pages
+Esta es una pagina web creada por mi con Jekyll y Github Pages
 
 ## Este es un título de tipo 2
 
