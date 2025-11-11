@@ -4,7 +4,7 @@ title: inicio
 header:
   overlay_color: ¨#000¨
   overlay_filter: ¨0¨
-  overlay_image: https://3.bp.blogspot.com/-wdk8M3w2JW0/VV8W1VwtVUI/AAAAAAAACLM/XUjxSpGrSXo/s320/LOGO%2BPRINCIPAL.bmp
+  overlay_image: /assets/images/LOGO_FP_SALCEDA6.jpg
   caption: ¨La foto la echo pedrico¨
   excerpt: ¨Logo del centro educativo FPS¨
 ---
