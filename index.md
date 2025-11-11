@@ -2,11 +2,11 @@
 layout: splash
 title: inicio
 header:
-  overlay_color: ¨#000¨
-  overlay_filter: ¨0¨
+  overlay_color: "#000"
+  overlay_filter: "0"
   overlay_image: /assets/images/LOGO_FP_SALCEDA6.jpg
-  caption: ¨La foto la echo pedrico¨
-  excerpt: ¨Logo del centro educativo FPS¨
+  caption: "La foto la echo pedrico"
+  excerpt: "Logo del centro educativo FPS"
 ---
 # ¡bienvenido a mi sitio web: MAMADOU LAMINE LARJA!
 
