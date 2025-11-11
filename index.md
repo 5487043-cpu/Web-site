@@ -32,29 +32,32 @@ Aqui pondremos más cosillas
      <th>Puntuación</th>
   </tr>
   <tr>
-  <td>1</td>
-  <td>Real Madrid</td>
-  <td>30</td>
+    <td>1</td>
+    <td>Real Madrid</td>
+    <td>30</td>
   </tr>
   <tr>
-  <td>2</td>
-  <td>Barcelona</td>
-  <td>29</td>
+    <td>2</td>
+    <td>Barcelona</td>
+    <td>29</td>
   </tr>
   <tr>
-  <td>3</td>
-  <td>Murcia</td>
-  <td>24</td>
+    <td>3</td>
+    <td>Murcia</td>
+    <td>24</td>
   </tr>
   <tr>
-  <td>4</td>
-  <td>Molinense</td>
-  <td>17</td>
+    <td>4</td>
+    <td>Molinense</td>
+    <td>17</td>
   </tr>
   <tr>
-  <td>5</td>
-  <td>Torreño</td>
-  <td>8</td>
+    <td>5</td>
+    <td>Torreño</td>
+    <td>8</td>
+  </tr>
+</table>
+
   
 
   
