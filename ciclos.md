@@ -1,12 +1,25 @@
 ---
-layout: splash
-title: ciclos formativos
-permalink: /ciclos/
+layout: single
+title: Ciclos Formativos
+permalink: ciclos/
+toc: true
+toc_label: Selecciona un ciclo
 ---
 
 # C.F. de Grado Medio Gestión Adminstrativa
 ## C.F. de Grado Medio Gestión Administrativa FP DUAL
+
 ## C.F. de Grado Medio Cuidados Auxiliares de Enfermería
+
+| Curso |	Módulo Profesional | Horas totales |
+|1|	Operaciones administrativas y documentación sanitaria|	65|
+|1|	Técnicas básicas de enfermería|	350|
+|1|	Higiene del medio hospitalario y limpieza de material|	155|
+|1|	Promoción de la salud y apoyo psicológico al paciente|	130|
+|1|	Técnicas de ayuda odontológica/estomatológica|	130|
+|1|	Relaciones en el equipo de trabajo|	65|
+|1|	Itinerario personal para la Empleabilidad I|	65|
+|2|	Formación en centros de trabajo|	440|
 
 # C.F. de Formación Profesional Básico
 
@@ -28,7 +41,7 @@ permalink: /ciclos/
 
 ## Servicios administrativos
 
-| Curso |	Módulo Profesional |	Horas totales |
+| Curso |	Módulo Profesional | Horas totales |
 |1|	Comunicación empresarial y atención al cliente|	135|
 |1|	Operaciones administrativas de compra-venta|	175|
 |1|	Empresa y Administración|	105|
