@@ -1,9 +1,9 @@
- main:
--title: "inicio"
-  url: /
-- title: "Ciclos formativos"
-  url: /ciclos/
--title: "Nuestro centro"
-  url: /acercade/
--title: "Contacto"
-  url: /contacto/
+main:
+ - title: "inicio" 
+   url: /
+ - title: "Ciclos formativos"
+   url: /ciclos/
+ - title: "Nuestro centro"
+   url: /acercade/
+ - title: "Contacto"
+   url: /contacto/
