@@ -1,5 +1,5 @@
 ---
-layout: spalsh
+layout: default
 title: Contacto
 permalink: /contacto/
 ---
